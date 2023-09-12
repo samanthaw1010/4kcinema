@@ -1,0 +1,1401 @@
+[
+    {
+        "id": 157,
+        "title": "Hậu Cung Chân Hoàn Truyện",
+        "title_eng": "Empresses In The Palace",
+        "duration": 45,
+        "season": "0",
+        "description": "Bộ phim \"Chân Hoàn truyện\" được đặt vào triều đại nhà Thanh thời kỳ Ung Chính, kể về cô gái người Hán tên gọi Chân Hoàn, là con gái của Đại lý tự Thiếu khanh Chân Viễn Đạo. Trong kì Tuyển tú đầu tiên sau khi lên ngôi của Ung Chính Đế, dù đã cố tình ăn mặc và trang điểm đơn giản nhưng Chân Hoàn vẫn lọt vào mắt xanh của Thiên tử vì có dung mạo đến năm phần giống Hoàng hậu quá cố của ông là Thuần Nguyên Hoàng hậu.",
+        "trailer": "0436761.mp4",
+        "tags": "Hậu Cung Chân Hoàn Truyện, Empresses In The Palace, phim Trung Quốc, phim cổ trang, phim tình cảm",
+        "slug": "hau-cung-chan-hoan-truyen",
+        "resolution": 1,
+        "subtitle": 1,
+        "total_episode": 75,
+        "status": 1,
+        "poster": "danh-gia-noi-dung-phim-hau-cung-chan-hoan-truyen-hinh-13697.jpg",
+        "top10": "rihqonhx_660x946-haucungchanhoantruyen-opt2427.jpg",
+        "isHotMovie": 0,
+        "topView": 2,
+        "actor": "Tôn Lệ, Thái Thiếu Phân, Lý Đông Học, Tưởng Hân, Lan Hy, Lưu Tuyết Hoa, Đào Hân Nhiên, Trần Kiến Bân, Đàm Tùng Vận, Đường Nghệ Hân, Mao Hiểu Đồng",
+        "director": "Trịnh Hiểu Long, Cao Dực Tuấn",
+        "created_at": "2023-08-04 03:04:38",
+        "updated_at": "2023-08-05 23:24:12",
+        "year": "2011",
+        "type": "2",
+        "genre_id": 2,
+        "country_id": 10,
+        "episode_count": 5,
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 19,
+                "title": "Tình Cảm",
+                "description": "Phim tình cảm tập trung chủ yếu vào một câu chuyện tình lãng mạn hoặc quá trình tìm kiếm tình yêu mạnh mẽ, tinh khiết và lấy nó làm cốt truyện chính. Đôi khi, những đôi lứa yêu nhau trong phim sẽ gặp phải những trở ngại như tài chính, bệnh tật, nhiều kiểu phân biệt đối xử, hạn chế tâm lý hoặc sự đe doạ của gia đình đòi phá vỡ tình yêu của họ.",
+                "status": 1,
+                "slug": "tinh-cam",
+                "pivot": {
+                    "movie_id": 157,
+                    "genre_id": 19
+                }
+            },
+            {
+                "id": 24,
+                "title": "Cổ Trang",
+                "description": "Phim cổ trang là một thể loại phim chi tiết hóa các phục trang, bối cảnh và đạo cụ sao cho đặc trưng nhất để hợp với bầu không khí của giai đoạn trước khi chế độ phong kiến sụp đổ. Ngoài ra còn có những bộ phim giả tưởng lấy đề tài về các nhân vật và sự kiện lịch sử.",
+                "status": 1,
+                "slug": "co-trang",
+                "pivot": {
+                    "movie_id": 157,
+                    "genre_id": 24
+                }
+            }
+        ],
+        "country": {
+            "id": 10,
+            "title": "Trung Quốc",
+            "description": "Phim Trung Quốc thường nổi tiếng với các cảnh hành động và võ thuật đẹp mắt, sử dụng các kỹ thuật truyền thống võ thuật và những đòn đánh đặc trưng của nền văn hóa Trung Quốc, cảnh quay thiên nhiên đa dạng và đẹp mắt. Phim Trung Quốc thường tái hiện lại trang phục và lịch sử văn hóa của các triều đại và giai đoạn lịch sử quan trọng trong lịch sử nước này, tạo nên những bộ phim truyền thống đậm đà văn hóa dân tộc, hơn nữa, nhạc phim Trung Quốc cũng rất ấn tượng. Những diễn viên nổi tiếng quốc tế của Trung Quốc: Thành Long: Là diễn viên, đạo diễn và nhà sản xuất nổi tiếng với các phim hành động võ thuật như Rush Hour, Police Story, và Drunken Master; Chân Tử Đan (Diệp Vấn); Lý Liên Kiệt (Hoàng Phi Hồng); Trương Tử Di; Tôn Lệ (Chân Hoàn Truyện),...",
+            "status": 1,
+            "slug": "trung-quoc"
+        }
+    },
+    {
+        "id": 156,
+        "title": "Thư Ký Kim Sao Thế?",
+        "title_eng": "What's Wrong With Secretary Kim",
+        "duration": 60,
+        "season": "0",
+        "description": "Thư Ký Kim Sao Thế được chuyển thể từ webtoon nổi tiếng cùng tên, xoay quanh câu chuyện tình lãng mạn của Lee Young Joon, một tài phiệt đời hai hoàn hảo nhưng quá yêu bản thân, và người trợ lí của anh ta, Kim Mi So, người được gọi là \"huyền thoại của giới thư ký\".",
+        "trailer": "0434221.mp4",
+        "tags": "Thư Ký Kim Sao Thế, What's Wrong With Secretary Kim, phim Hàn Quốc, phim tình cảm",
+        "slug": "thu-ky-kim-sao-the",
+        "resolution": 1,
+        "subtitle": 0,
+        "total_episode": 15,
+        "status": 1,
+        "poster": "dwd75ah6_1920x1080-saothethukykim270.jpg",
+        "top10": "whats-wrong-with-secretary-kim_web_posterPortrait_f5e7391755681d52f50cdc9c8aeb768e118.webp",
+        "isHotMovie": 1,
+        "topView": 0,
+        "actor": "Park Seo-joon, Park Min-young",
+        "director": "Park Joon-Hwa",
+        "created_at": "2023-08-04 02:46:44",
+        "updated_at": "2023-08-08 00:52:54",
+        "year": "2018",
+        "type": "2",
+        "genre_id": 2,
+        "country_id": 12,
+        "episode_count": 1,
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 19,
+                "title": "Tình Cảm",
+                "description": "Phim tình cảm tập trung chủ yếu vào một câu chuyện tình lãng mạn hoặc quá trình tìm kiếm tình yêu mạnh mẽ, tinh khiết và lấy nó làm cốt truyện chính. Đôi khi, những đôi lứa yêu nhau trong phim sẽ gặp phải những trở ngại như tài chính, bệnh tật, nhiều kiểu phân biệt đối xử, hạn chế tâm lý hoặc sự đe doạ của gia đình đòi phá vỡ tình yêu của họ.",
+                "status": 1,
+                "slug": "tinh-cam",
+                "pivot": {
+                    "movie_id": 156,
+                    "genre_id": 19
+                }
+            },
+            {
+                "id": 26,
+                "title": "Hài Hước",
+                "description": "Phim hài hước là thể loại phim nhấn mạnh vào tính hài hước, là một trong những dòng phim lâu đời nhất và cũng chính là một trong số những bộ phim câm đầu tiên trên thế giới.  Những bộ phim hài thường là những câu chuyện có mục đích để giải trí. Tuy nhiên, cũng có một số phim đề cập tới những vấn đề chính trị, xã hội.",
+                "status": 1,
+                "slug": "hai-huoc",
+                "pivot": {
+                    "movie_id": 156,
+                    "genre_id": 26
+                }
+            }
+        ],
+        "country": {
+            "id": 12,
+            "title": "Hàn Quốc",
+            "description": "Phim Hàn Quốc thường đào tạo và ra mắt nhiều diễn viên trẻ tài năng, tạo sự đa dạng và cạnh tranh trong ngành điện ảnh, nổi tiếng với các kịch bản tình cảm sâu sắc và diễn đạt cảm xúc tinh tế, tạo nên những câu chuyện đầy cảm động và lôi cuốn. Nhạc Hàn Quốc (K-pop) thường gắn liền với các bộ phim và đã trở thành một yếu tố quan trọng góp phần nâng cao sự hấp dẫn của phim Hàn Quốc. Những phim Hàn Quốc đã đạt giải thưởng quốc tế: Ký Sinh Trùng, Cậu Bé Của Gã Sát Thủ, Đốt Cháy, Người Hầu Gái, Tàu Điện Ngầm Tử Thần,...",
+            "status": 1,
+            "slug": "han-quoc"
+        }
+    },
+    {
+        "id": 155,
+        "title": "Cậu Bé Karate",
+        "title_eng": "The Karate Kid",
+        "duration": 90,
+        "season": "0",
+        "description": "Phim Cậu Bé Karate xoay quanh cậu bé Dre Parker, 12 tuổi theo mẹ di chuyển từ thành phố Detroit, Mỹ sang Bắc Kinh, Trung Quốc. Tại đây, ngỡ ngàng với cuộc sống mới, khác biệt về ngôn ngữ, Dre trong phim vô tình gây sự đánh nhau với những học sinh giỏi kungfu Trung Quốc cùng trường.Để lấy lại danh dự và cũng để chinh phục cô bạn gái Mỹ Anh xinh đẹp, Dre quyết tâm \"đi học võ\".",
+        "trailer": "0426668.mp4",
+        "tags": "Cậu Bé Karate, The Karate Kid, phim hành động, phim học đường, phim võ thuật",
+        "slug": "cau-be-karate",
+        "resolution": 0,
+        "subtitle": 0,
+        "total_episode": 0,
+        "status": 1,
+        "poster": "1XpLUt5MKf1gfY4zCRKoBFk54RJ172.jpg",
+        "top10": "poster-phim-The-Karate-Kid-e1587200205706837.jpg",
+        "isHotMovie": 0,
+        "topView": 1,
+        "actor": "Jerry Weintraub, Will Smith, Jada Pinkett Smith, James Lassiter, Ken Stovitz",
+        "director": "Harald Zwart",
+        "created_at": "2023-08-04 02:33:01",
+        "updated_at": "2023-08-05 23:26:06",
+        "year": "2010",
+        "type": "1",
+        "genre_id": 3,
+        "country_id": 9,
+        "episode_count": 1,
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 19,
+                "title": "Tình Cảm",
+                "description": "Phim tình cảm tập trung chủ yếu vào một câu chuyện tình lãng mạn hoặc quá trình tìm kiếm tình yêu mạnh mẽ, tinh khiết và lấy nó làm cốt truyện chính. Đôi khi, những đôi lứa yêu nhau trong phim sẽ gặp phải những trở ngại như tài chính, bệnh tật, nhiều kiểu phân biệt đối xử, hạn chế tâm lý hoặc sự đe doạ của gia đình đòi phá vỡ tình yêu của họ.",
+                "status": 1,
+                "slug": "tinh-cam",
+                "pivot": {
+                    "movie_id": 155,
+                    "genre_id": 19
+                }
+            },
+            {
+                "id": 29,
+                "title": "Gia Đình",
+                "description": "Phim gia đình tập trung vào những câu chuyện xoay quanh đề tài gia đình, mối quan hệ trong gia đình và các vấn đề phát sinh từ cuộc sống gia đình hàng ngày. Các yếu tố chính trong phim thường bao gồm tình cảm, tình thân, tình bạn, tình cha mẹ con cái, và các mối quan hệ khác trong gia đình. Các tình huống thường đề cao giá trị gia đình, sự đoàn kết, lòng hiếu thảo, và hỗ trợ lẫn nhau giữa các thành viên trong gia đình.",
+                "status": 1,
+                "slug": "gia-dinh",
+                "pivot": {
+                    "movie_id": 155,
+                    "genre_id": 29
+                }
+            },
+            {
+                "id": 30,
+                "title": "Võ Thuật",
+                "description": "Phim Võ Thuật thường có những pha chiến đấu, võ thuật, võ đài và các trận chiến quyết liệt giữa các nhân vật. Phim võ thuật thường có các nhân vật chủ yếu là võ sĩ, võ thuật gia, hoặc những người có khả năng chiến đấu phi thường. Phim võ thuật thường chứa đựng những yếu tố như võ nghệ, công phu, võ đạo, võ công, và thường đi kèm với các giá trị tinh thần như kiên nhẫn, kiên định, và lòng dũng cảm.",
+                "status": 1,
+                "slug": "vo-thuat",
+                "pivot": {
+                    "movie_id": 155,
+                    "genre_id": 30
+                }
+            },
+            {
+                "id": 32,
+                "title": "Hành Động",
+                "description": "Các nhân vật trong phim hành động thường là những anh hùng hoặc nhân vật có khả năng chiến đấu, đòi hỏi họ phải đối mặt với những thử thách nguy hiểm để bảo vệ mục tiêu hoặc giải quyết vấn đề. Những pha hành động trong phim thường được đạo diễn và thực hiện một cách chuyên nghiệp, sử dụng các kỹ xảo, đạo cụ và đôi khi cả diễn viên đặc biệt để tạo ra những cảnh quay ấn tượng và hấp dẫn.",
+                "status": 1,
+                "slug": "hanh-dong",
+                "pivot": {
+                    "movie_id": 155,
+                    "genre_id": 32
+                }
+            },
+            {
+                "id": 36,
+                "title": "Học Đường",
+                "description": "Phim học đường là thể loại phim xoay quanh các mối quan hệ thầy cô, bạn bè và cả tình cảm đơn thuần của lứa tuổi học trò cùng những câu chuyện thể hiện tâm lý tuổi mới lớn.",
+                "status": 1,
+                "slug": "hoc-duong",
+                "pivot": {
+                    "movie_id": 155,
+                    "genre_id": 36
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ (hay còn gọi là Hollywood) có nhiều đặc sắc và điểm nổi bật độc đáo mà không phim quốc gia nào có thể sánh được: thường có ngân sách lớn và sử dụng công nghệ kỹ xảo và hiệu ứng đặc biệt tiên tiến, tạo ra những cảnh quay ấn tượng, hùng vĩ và đẹp mắt, thể loại đa dạng. Những diễn viên nổi tiếng quốc tế của Âu Mỹ có nhiều và đa dạng: Tom Hanks (Forrest Gump, Cast Away), Meryl Streep - diễn viên xuất sắc nhất mọi thời đại (Sophie's Choice, The Iron Lady), Leonardo DiCaprio đã giành giải Oscar cho vai diễn trong phim \"The Revenant,\" cũng nổi tiếng với các phim Titanic, Angelina Jolie, Brad Pitt,...",
+            "status": 1,
+            "slug": "au-my"
+        }
+    },
+    {
+        "id": 154,
+        "title": "Kẻ Ngoại Tộc",
+        "title_eng": "The Foreigner",
+        "duration": 116,
+        "season": "0",
+        "description": "The Foreigner là dự án đầu tiên của Thành Long được thực hiện tại Hollywood sau khi anh nhận giải Oscar danh dự năm 2016. Cùng với đạo diễn nổi tiếng Martin Campbell và nam diễn viên từng thủ vai James Bond - Pierce Brosnan, bộ ba đảm bảo mang đến cho khán giả một bom tấn đáng kinh ngạc.",
+        "trailer": "0421750.mp4",
+        "tags": "Kẻ Ngoại Tộc, The Foreigner, phim hành động, phim Âu Mỹ",
+        "slug": "ke-ngoai-toc",
+        "resolution": 1,
+        "subtitle": 0,
+        "total_episode": 0,
+        "status": 1,
+        "poster": "sddefault805.jpg",
+        "top10": "Kẻ_ngoại_tộc_-_The_Foreigner297.jpg",
+        "isHotMovie": 1,
+        "topView": 2,
+        "actor": "Thành Long, Wayne Marc, Godfrey, Arthur M., Sarkissian Claire, Kupchak Scott ,Lumpkin Jamie, Marshall Cathy, Schulman",
+        "director": "Martin Campbell",
+        "created_at": "2023-08-04 02:22:41",
+        "updated_at": "2023-08-05 23:26:50",
+        "year": "2017",
+        "type": "1",
+        "genre_id": 3,
+        "country_id": 9,
+        "episode_count": 1,
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 19,
+                "title": "Tình Cảm",
+                "description": "Phim tình cảm tập trung chủ yếu vào một câu chuyện tình lãng mạn hoặc quá trình tìm kiếm tình yêu mạnh mẽ, tinh khiết và lấy nó làm cốt truyện chính. Đôi khi, những đôi lứa yêu nhau trong phim sẽ gặp phải những trở ngại như tài chính, bệnh tật, nhiều kiểu phân biệt đối xử, hạn chế tâm lý hoặc sự đe doạ của gia đình đòi phá vỡ tình yêu của họ.",
+                "status": 1,
+                "slug": "tinh-cam",
+                "pivot": {
+                    "movie_id": 154,
+                    "genre_id": 19
+                }
+            },
+            {
+                "id": 30,
+                "title": "Võ Thuật",
+                "description": "Phim Võ Thuật thường có những pha chiến đấu, võ thuật, võ đài và các trận chiến quyết liệt giữa các nhân vật. Phim võ thuật thường có các nhân vật chủ yếu là võ sĩ, võ thuật gia, hoặc những người có khả năng chiến đấu phi thường. Phim võ thuật thường chứa đựng những yếu tố như võ nghệ, công phu, võ đạo, võ công, và thường đi kèm với các giá trị tinh thần như kiên nhẫn, kiên định, và lòng dũng cảm.",
+                "status": 1,
+                "slug": "vo-thuat",
+                "pivot": {
+                    "movie_id": 154,
+                    "genre_id": 30
+                }
+            },
+            {
+                "id": 32,
+                "title": "Hành Động",
+                "description": "Các nhân vật trong phim hành động thường là những anh hùng hoặc nhân vật có khả năng chiến đấu, đòi hỏi họ phải đối mặt với những thử thách nguy hiểm để bảo vệ mục tiêu hoặc giải quyết vấn đề. Những pha hành động trong phim thường được đạo diễn và thực hiện một cách chuyên nghiệp, sử dụng các kỹ xảo, đạo cụ và đôi khi cả diễn viên đặc biệt để tạo ra những cảnh quay ấn tượng và hấp dẫn.",
+                "status": 1,
+                "slug": "hanh-dong",
+                "pivot": {
+                    "movie_id": 154,
+                    "genre_id": 32
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ (hay còn gọi là Hollywood) có nhiều đặc sắc và điểm nổi bật độc đáo mà không phim quốc gia nào có thể sánh được: thường có ngân sách lớn và sử dụng công nghệ kỹ xảo và hiệu ứng đặc biệt tiên tiến, tạo ra những cảnh quay ấn tượng, hùng vĩ và đẹp mắt, thể loại đa dạng. Những diễn viên nổi tiếng quốc tế của Âu Mỹ có nhiều và đa dạng: Tom Hanks (Forrest Gump, Cast Away), Meryl Streep - diễn viên xuất sắc nhất mọi thời đại (Sophie's Choice, The Iron Lady), Leonardo DiCaprio đã giành giải Oscar cho vai diễn trong phim \"The Revenant,\" cũng nổi tiếng với các phim Titanic, Angelina Jolie, Brad Pitt,...",
+            "status": 1,
+            "slug": "au-my"
+        }
+    },
+    {
+        "id": 153,
+        "title": "Nhiệm Vụ: Bất Khả Thi",
+        "title_eng": "Mission: Impossible",
+        "duration": 163,
+        "season": "0",
+        "description": "Nhiệm Vụ: Bất Khả Thi 7 – Nghiệp Báo Phần 1 – Mission: Impossible 7 – Dead Reckoning Part One (2023) Ethan Hunt và đội IMF của anh ta bắt đầu nhiệm vụ nguy hiểm nhất của họ: Theo dõi một vũ khí mới đáng sợ đe dọa toàn nhân loại trước khi nó rơi vào tay kẻ xấu.",
+        "trailer": "0416610.mp4",
+        "tags": "Nhiệm Vụ: Bất Khả Thi, Mission: Impossible, phim Âu Mỹ, phim hành động",
+        "slug": "nhiem-vu-bat-kha-thi",
+        "resolution": 2,
+        "subtitle": 0,
+        "total_episode": 0,
+        "status": 1,
+        "poster": "dmajmubb_1920x1080-nhiemvubatkhathi_782_432367.jpeg",
+        "top10": "5n1sh60b_660x946-nhiemvubatkhathi448.png",
+        "isHotMovie": 1,
+        "topView": 0,
+        "actor": "Tom Cruise, Rebecca Ferguson, Vanessa Kirby",
+        "director": "Christopher McQuarrie",
+        "created_at": "2023-08-04 02:12:12",
+        "updated_at": "2023-08-05 23:27:39",
+        "year": "2023",
+        "type": "1",
+        "genre_id": 3,
+        "country_id": 9,
+        "episode_count": 1,
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 19,
+                "title": "Tình Cảm",
+                "description": "Phim tình cảm tập trung chủ yếu vào một câu chuyện tình lãng mạn hoặc quá trình tìm kiếm tình yêu mạnh mẽ, tinh khiết và lấy nó làm cốt truyện chính. Đôi khi, những đôi lứa yêu nhau trong phim sẽ gặp phải những trở ngại như tài chính, bệnh tật, nhiều kiểu phân biệt đối xử, hạn chế tâm lý hoặc sự đe doạ của gia đình đòi phá vỡ tình yêu của họ.",
+                "status": 1,
+                "slug": "tinh-cam",
+                "pivot": {
+                    "movie_id": 153,
+                    "genre_id": 19
+                }
+            },
+            {
+                "id": 25,
+                "title": "Phiêu Lưu",
+                "description": "Nội dung của phim phiêu lưu chủ yếu bao gồm bối cảnh từ những cuộc truy lùng các vùng đất đã mất, rừng rậm, núi và\/hoặc hoang mạc, các nhân vật sẽ lao vào những cuộc truy tìm kho báu và những chuyến đi quả cảm không thể đoán trước được kết quả. Vua, các trận đánh, cuộc nổi loạn hay cướp biển là những nhân vật thường xuất hiện trong phim phiêu lưu.",
+                "status": 1,
+                "slug": "phieu-luu",
+                "pivot": {
+                    "movie_id": 153,
+                    "genre_id": 25
+                }
+            },
+            {
+                "id": 32,
+                "title": "Hành Động",
+                "description": "Các nhân vật trong phim hành động thường là những anh hùng hoặc nhân vật có khả năng chiến đấu, đòi hỏi họ phải đối mặt với những thử thách nguy hiểm để bảo vệ mục tiêu hoặc giải quyết vấn đề. Những pha hành động trong phim thường được đạo diễn và thực hiện một cách chuyên nghiệp, sử dụng các kỹ xảo, đạo cụ và đôi khi cả diễn viên đặc biệt để tạo ra những cảnh quay ấn tượng và hấp dẫn.",
+                "status": 1,
+                "slug": "hanh-dong",
+                "pivot": {
+                    "movie_id": 153,
+                    "genre_id": 32
+                }
+            },
+            {
+                "id": 38,
+                "title": "Trinh Thám",
+                "description": "Phim trinh thám thường tập trung vào quá trình điều tra để tìm ra sự thật mà không nhất thiết là vụ án. Nhân vật chính có thể là thám tử tư, cũng có thể là nhân viên tư pháp hoặc người bình thường muốn tìm ra sự thật hay tự nhận trách nhiệm điều tra.",
+                "status": 1,
+                "slug": "trinh-tham",
+                "pivot": {
+                    "movie_id": 153,
+                    "genre_id": 38
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ (hay còn gọi là Hollywood) có nhiều đặc sắc và điểm nổi bật độc đáo mà không phim quốc gia nào có thể sánh được: thường có ngân sách lớn và sử dụng công nghệ kỹ xảo và hiệu ứng đặc biệt tiên tiến, tạo ra những cảnh quay ấn tượng, hùng vĩ và đẹp mắt, thể loại đa dạng. Những diễn viên nổi tiếng quốc tế của Âu Mỹ có nhiều và đa dạng: Tom Hanks (Forrest Gump, Cast Away), Meryl Streep - diễn viên xuất sắc nhất mọi thời đại (Sophie's Choice, The Iron Lady), Leonardo DiCaprio đã giành giải Oscar cho vai diễn trong phim \"The Revenant,\" cũng nổi tiếng với các phim Titanic, Angelina Jolie, Brad Pitt,...",
+            "status": 1,
+            "slug": "au-my"
+        }
+    },
+    {
+        "id": 152,
+        "title": "Tàu Ngầm Sắt Màu Đen",
+        "title_eng": "Black Iron Mystery Train",
+        "duration": 110,
+        "season": "26",
+        "description": "Nhóm của Conan, theo lời mời của Sonoko, cũng đến đảo Hachijo để xem cá voi. Tại đây, Conan nhận được thông tin về một nhân viên Europol bị ám sát. Cùng với đó, tính mạng Haibara bị đe dọa, phải chăng thân phận của cô đã bị bại lộ trước Gin…",
+        "trailer": "0415113.mp4",
+        "tags": "Thám Tủ Lừng Danh, Conan, Detective Conan, phim hoạt hình, phim Nhật Bản, phim trinh thám, phim học đường, phim gia đình",
+        "slug": "tau-ngam-sat-mau-den",
+        "resolution": 3,
+        "subtitle": 0,
+        "total_episode": 0,
+        "status": 1,
+        "poster": "conan-movie-2669.jpg",
+        "top10": "image-335188.png",
+        "isHotMovie": 1,
+        "topView": 0,
+        "actor": "Trần Hoàng Sơn (lồng tiếng nhân vật Shinichi), Đặng Hoàng Khuyết (lồng tiếng nhân vật Conan), Võ Huyền Chi (lồng tiếng nhân vật Mori Ran)",
+        "director": "Kamanaka Nobuharu",
+        "created_at": "2023-08-04 02:06:15",
+        "updated_at": "2023-08-05 23:31:54",
+        "year": "2023",
+        "type": "1",
+        "genre_id": 3,
+        "country_id": 13,
+        "episode_count": 0,
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 19,
+                "title": "Tình Cảm",
+                "description": "Phim tình cảm tập trung chủ yếu vào một câu chuyện tình lãng mạn hoặc quá trình tìm kiếm tình yêu mạnh mẽ, tinh khiết và lấy nó làm cốt truyện chính. Đôi khi, những đôi lứa yêu nhau trong phim sẽ gặp phải những trở ngại như tài chính, bệnh tật, nhiều kiểu phân biệt đối xử, hạn chế tâm lý hoặc sự đe doạ của gia đình đòi phá vỡ tình yêu của họ.",
+                "status": 1,
+                "slug": "tinh-cam",
+                "pivot": {
+                    "movie_id": 152,
+                    "genre_id": 19
+                }
+            },
+            {
+                "id": 23,
+                "title": "Khoa Học Viễn Tưởng",
+                "description": "Phim Khoa Học Viễn Tưởng là một thể loại phim sử dụng những mô tả mang tính tiên đoán và hư cấu dựa trên khoa học về các hiện tượng mà khoa học chính thống không chấp nhận đầy đủ như sinh vật ngoài Trái Đất, thế giới người ngoài hành tinh, ngoại cảm và du hành thời gian cùng với các yếu tố tương lai như tàu vũ trụ, robot, sinh vật cơ khí hóa, du hành liên sao hoặc các kỹ thuật khác.",
+                "status": 1,
+                "slug": "khoa-hoc-vien-tuong",
+                "pivot": {
+                    "movie_id": 152,
+                    "genre_id": 23
+                }
+            },
+            {
+                "id": 25,
+                "title": "Phiêu Lưu",
+                "description": "Nội dung của phim phiêu lưu chủ yếu bao gồm bối cảnh từ những cuộc truy lùng các vùng đất đã mất, rừng rậm, núi và\/hoặc hoang mạc, các nhân vật sẽ lao vào những cuộc truy tìm kho báu và những chuyến đi quả cảm không thể đoán trước được kết quả. Vua, các trận đánh, cuộc nổi loạn hay cướp biển là những nhân vật thường xuất hiện trong phim phiêu lưu.",
+                "status": 1,
+                "slug": "phieu-luu",
+                "pivot": {
+                    "movie_id": 152,
+                    "genre_id": 25
+                }
+            },
+            {
+                "id": 26,
+                "title": "Hài Hước",
+                "description": "Phim hài hước là thể loại phim nhấn mạnh vào tính hài hước, là một trong những dòng phim lâu đời nhất và cũng chính là một trong số những bộ phim câm đầu tiên trên thế giới.  Những bộ phim hài thường là những câu chuyện có mục đích để giải trí. Tuy nhiên, cũng có một số phim đề cập tới những vấn đề chính trị, xã hội.",
+                "status": 1,
+                "slug": "hai-huoc",
+                "pivot": {
+                    "movie_id": 152,
+                    "genre_id": 26
+                }
+            },
+            {
+                "id": 28,
+                "title": "Hoạt Hình",
+                "description": "Phim hoạt hình hay phim hoạt họa là một hình thức sử dụng ảo ảnh quang học về sự chuyển động do nhiều hình ảnh tĩnh được chiếu tiếp diễn liên tục. Trong phim và trong kỹ nghệ dàn dựng, hoạt họa ám chỉ đến kỹ thuật trong đó từng khung hình của phim được chế tác riêng rẽ. Hiện nay, nhờ sự phát triển trong hoạt họa máy tính, tốc độ quá trình sản xuất phim đã được tăng lên rất nhiều.",
+                "status": 1,
+                "slug": "hoat-hinh",
+                "pivot": {
+                    "movie_id": 152,
+                    "genre_id": 28
+                }
+            },
+            {
+                "id": 29,
+                "title": "Gia Đình",
+                "description": "Phim gia đình tập trung vào những câu chuyện xoay quanh đề tài gia đình, mối quan hệ trong gia đình và các vấn đề phát sinh từ cuộc sống gia đình hàng ngày. Các yếu tố chính trong phim thường bao gồm tình cảm, tình thân, tình bạn, tình cha mẹ con cái, và các mối quan hệ khác trong gia đình. Các tình huống thường đề cao giá trị gia đình, sự đoàn kết, lòng hiếu thảo, và hỗ trợ lẫn nhau giữa các thành viên trong gia đình.",
+                "status": 1,
+                "slug": "gia-dinh",
+                "pivot": {
+                    "movie_id": 152,
+                    "genre_id": 29
+                }
+            },
+            {
+                "id": 32,
+                "title": "Hành Động",
+                "description": "Các nhân vật trong phim hành động thường là những anh hùng hoặc nhân vật có khả năng chiến đấu, đòi hỏi họ phải đối mặt với những thử thách nguy hiểm để bảo vệ mục tiêu hoặc giải quyết vấn đề. Những pha hành động trong phim thường được đạo diễn và thực hiện một cách chuyên nghiệp, sử dụng các kỹ xảo, đạo cụ và đôi khi cả diễn viên đặc biệt để tạo ra những cảnh quay ấn tượng và hấp dẫn.",
+                "status": 1,
+                "slug": "hanh-dong",
+                "pivot": {
+                    "movie_id": 152,
+                    "genre_id": 32
+                }
+            },
+            {
+                "id": 36,
+                "title": "Học Đường",
+                "description": "Phim học đường là thể loại phim xoay quanh các mối quan hệ thầy cô, bạn bè và cả tình cảm đơn thuần của lứa tuổi học trò cùng những câu chuyện thể hiện tâm lý tuổi mới lớn.",
+                "status": 1,
+                "slug": "hoc-duong",
+                "pivot": {
+                    "movie_id": 152,
+                    "genre_id": 36
+                }
+            },
+            {
+                "id": 38,
+                "title": "Trinh Thám",
+                "description": "Phim trinh thám thường tập trung vào quá trình điều tra để tìm ra sự thật mà không nhất thiết là vụ án. Nhân vật chính có thể là thám tử tư, cũng có thể là nhân viên tư pháp hoặc người bình thường muốn tìm ra sự thật hay tự nhận trách nhiệm điều tra.",
+                "status": 1,
+                "slug": "trinh-tham",
+                "pivot": {
+                    "movie_id": 152,
+                    "genre_id": 38
+                }
+            }
+        ],
+        "country": {
+            "id": 13,
+            "title": "Nhật Bản",
+            "description": "Phim Nhật Bản thường gắn liền với truyền thống và văn hóa dân tộc, thể hiện những giá trị tinh thần và đạo đức đặc biệt của người Nhật. Nhật Bản nổi tiếng với ngành công nghiệp Anime phát triển mạnh mẽ, sử dụng nhiều cảnh quay tĩnh và âm nhạc nhẹ nhàng. Dorama (phim truyền hình) Nhật Bản có cách kể chuyện chậm và sâu sắc, thể hiện đời sống thường ngày và các vấn đề xã hội. Các bộ phim Nhật Bản đã đạt giải thưởng quốc tế: Departures, Spirited Away, Shoplifters, Nobody Knows, ...",
+            "status": 1,
+            "slug": "nhat-ban"
+        }
+    },
+    {
+        "id": 151,
+        "title": "Là Em",
+        "title_eng": "Bad Romeo",
+        "duration": 80,
+        "season": "0",
+        "description": "Là Em là câu chuyện yêu và ghét giao thoa khi một cô nàng giao du với chàng thợ sửa xe bí ẩn, nhưng bố của cô – một ông trùm khách sạn – lại phản đối mối quan hệ này.",
+        "trailer": "0408575.mp4",
+        "tags": "Là Em, Bad Romeo, phim gia đình, phim tình cảm, phim Thái Lan",
+        "slug": "la-em",
+        "resolution": 2,
+        "subtitle": 0,
+        "total_episode": 16,
+        "status": 1,
+        "poster": "image740.png",
+        "top10": "ls-em-tung-tang139.jpg",
+        "isHotMovie": 1,
+        "topView": 2,
+        "actor": "Mario Maurer, Urassaya Sperbund, Yuranunt Pamornmontri",
+        "director": "Anne Thongprasom",
+        "created_at": "2023-08-04 01:49:51",
+        "updated_at": "2023-08-05 23:32:43",
+        "year": "2022",
+        "type": "2",
+        "genre_id": 2,
+        "country_id": 15,
+        "episode_count": 2,
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 19,
+                "title": "Tình Cảm",
+                "description": "Phim tình cảm tập trung chủ yếu vào một câu chuyện tình lãng mạn hoặc quá trình tìm kiếm tình yêu mạnh mẽ, tinh khiết và lấy nó làm cốt truyện chính. Đôi khi, những đôi lứa yêu nhau trong phim sẽ gặp phải những trở ngại như tài chính, bệnh tật, nhiều kiểu phân biệt đối xử, hạn chế tâm lý hoặc sự đe doạ của gia đình đòi phá vỡ tình yêu của họ.",
+                "status": 1,
+                "slug": "tinh-cam",
+                "pivot": {
+                    "movie_id": 151,
+                    "genre_id": 19
+                }
+            },
+            {
+                "id": 29,
+                "title": "Gia Đình",
+                "description": "Phim gia đình tập trung vào những câu chuyện xoay quanh đề tài gia đình, mối quan hệ trong gia đình và các vấn đề phát sinh từ cuộc sống gia đình hàng ngày. Các yếu tố chính trong phim thường bao gồm tình cảm, tình thân, tình bạn, tình cha mẹ con cái, và các mối quan hệ khác trong gia đình. Các tình huống thường đề cao giá trị gia đình, sự đoàn kết, lòng hiếu thảo, và hỗ trợ lẫn nhau giữa các thành viên trong gia đình.",
+                "status": 1,
+                "slug": "gia-dinh",
+                "pivot": {
+                    "movie_id": 151,
+                    "genre_id": 29
+                }
+            }
+        ],
+        "country": {
+            "id": 15,
+            "title": "Thái Lan",
+            "description": "Dù có nhiều thể loại phim khác nhau, nhưng phim kinh dị và phim hài - kịch tính là hai thể loại mà ngành công nghiệp điện ảnh Thái Lan đã gây ấn tượng mạnh mẽ và để lại dấu ấn sâu sắc trên trường quốc tế. Những bộ phim kinh dị như \"Shutter\" (Khách Sạn Bí Ẩn), \"Pee Mak\" (Ông Xã Ma), và \"Ladda Land\" (Xứ Sở Ladda). Những bộ phim hài - kịch tích như \"Crazy Little Thing Called Love\" (Điều Gì Đến Rồi Cũng Đến), \"Hello Stranger\" (Người Lạ Ơi), và \"SuckSeed\" (Tuổi Thanh Xuân)",
+            "status": 1,
+            "slug": "thai-lan"
+        }
+    },
+    {
+        "id": 150,
+        "title": "15 Phút Tĩnh Lặng",
+        "title_eng": "Quarter Of Silence",
+        "duration": 110,
+        "season": "15",
+        "description": "Sự bùng nổ của một tuyến tàu điện ngầm Tokyo mới dẫn đầu Conan và những người bạn của mình trong một ngôi làng tuyết phủ tuyết. Ở đây, sau 8 năm, các thám tử nhỏ làm sáng tỏ những động lực đằng sau sự kiện gây sốc khiến cái chết của một người phụ nữ và hôn mê của một cậu bé 15 tuổi. Dưới tuyết xinh đẹp, Conan tham gia vào một cái gì đó lớn hơn anh.",
+        "trailer": "040782.mp4",
+        "tags": "15 Phút Tĩnh Lặng, Detective Conan, Thám Tử Lừng Danh, Conan, phim trinh thám, phim hoạt hình, phim Nhật Bản",
+        "slug": "15-phut-tinh-lang",
+        "resolution": 0,
+        "subtitle": 1,
+        "total_episode": 0,
+        "status": 1,
+        "poster": "0e392cbd3169b34a7256865d8bec59ec803.png",
+        "top10": "74dd670837f7_360_540585.jpg",
+        "isHotMovie": 1,
+        "topView": 1,
+        "actor": "Trần Hoàng Sơn (lồng tiếng nhân vật Shinichi), Đặng Hoàng Khuyết (lồng tiếng nhân vật Conan), Võ Huyền Chi (lồng tiếng nhân vật Mori Ran)",
+        "director": "Kamanaka Nobuharu",
+        "created_at": "2023-08-04 01:41:40",
+        "updated_at": "2023-08-05 23:34:25",
+        "year": "2011",
+        "type": "1",
+        "genre_id": 3,
+        "country_id": 13,
+        "episode_count": 1,
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 19,
+                "title": "Tình Cảm",
+                "description": "Phim tình cảm tập trung chủ yếu vào một câu chuyện tình lãng mạn hoặc quá trình tìm kiếm tình yêu mạnh mẽ, tinh khiết và lấy nó làm cốt truyện chính. Đôi khi, những đôi lứa yêu nhau trong phim sẽ gặp phải những trở ngại như tài chính, bệnh tật, nhiều kiểu phân biệt đối xử, hạn chế tâm lý hoặc sự đe doạ của gia đình đòi phá vỡ tình yêu của họ.",
+                "status": 1,
+                "slug": "tinh-cam",
+                "pivot": {
+                    "movie_id": 150,
+                    "genre_id": 19
+                }
+            },
+            {
+                "id": 28,
+                "title": "Hoạt Hình",
+                "description": "Phim hoạt hình hay phim hoạt họa là một hình thức sử dụng ảo ảnh quang học về sự chuyển động do nhiều hình ảnh tĩnh được chiếu tiếp diễn liên tục. Trong phim và trong kỹ nghệ dàn dựng, hoạt họa ám chỉ đến kỹ thuật trong đó từng khung hình của phim được chế tác riêng rẽ. Hiện nay, nhờ sự phát triển trong hoạt họa máy tính, tốc độ quá trình sản xuất phim đã được tăng lên rất nhiều.",
+                "status": 1,
+                "slug": "hoat-hinh",
+                "pivot": {
+                    "movie_id": 150,
+                    "genre_id": 28
+                }
+            },
+            {
+                "id": 29,
+                "title": "Gia Đình",
+                "description": "Phim gia đình tập trung vào những câu chuyện xoay quanh đề tài gia đình, mối quan hệ trong gia đình và các vấn đề phát sinh từ cuộc sống gia đình hàng ngày. Các yếu tố chính trong phim thường bao gồm tình cảm, tình thân, tình bạn, tình cha mẹ con cái, và các mối quan hệ khác trong gia đình. Các tình huống thường đề cao giá trị gia đình, sự đoàn kết, lòng hiếu thảo, và hỗ trợ lẫn nhau giữa các thành viên trong gia đình.",
+                "status": 1,
+                "slug": "gia-dinh",
+                "pivot": {
+                    "movie_id": 150,
+                    "genre_id": 29
+                }
+            },
+            {
+                "id": 32,
+                "title": "Hành Động",
+                "description": "Các nhân vật trong phim hành động thường là những anh hùng hoặc nhân vật có khả năng chiến đấu, đòi hỏi họ phải đối mặt với những thử thách nguy hiểm để bảo vệ mục tiêu hoặc giải quyết vấn đề. Những pha hành động trong phim thường được đạo diễn và thực hiện một cách chuyên nghiệp, sử dụng các kỹ xảo, đạo cụ và đôi khi cả diễn viên đặc biệt để tạo ra những cảnh quay ấn tượng và hấp dẫn.",
+                "status": 1,
+                "slug": "hanh-dong",
+                "pivot": {
+                    "movie_id": 150,
+                    "genre_id": 32
+                }
+            },
+            {
+                "id": 38,
+                "title": "Trinh Thám",
+                "description": "Phim trinh thám thường tập trung vào quá trình điều tra để tìm ra sự thật mà không nhất thiết là vụ án. Nhân vật chính có thể là thám tử tư, cũng có thể là nhân viên tư pháp hoặc người bình thường muốn tìm ra sự thật hay tự nhận trách nhiệm điều tra.",
+                "status": 1,
+                "slug": "trinh-tham",
+                "pivot": {
+                    "movie_id": 150,
+                    "genre_id": 38
+                }
+            }
+        ],
+        "country": {
+            "id": 13,
+            "title": "Nhật Bản",
+            "description": "Phim Nhật Bản thường gắn liền với truyền thống và văn hóa dân tộc, thể hiện những giá trị tinh thần và đạo đức đặc biệt của người Nhật. Nhật Bản nổi tiếng với ngành công nghiệp Anime phát triển mạnh mẽ, sử dụng nhiều cảnh quay tĩnh và âm nhạc nhẹ nhàng. Dorama (phim truyền hình) Nhật Bản có cách kể chuyện chậm và sâu sắc, thể hiện đời sống thường ngày và các vấn đề xã hội. Các bộ phim Nhật Bản đã đạt giải thưởng quốc tế: Departures, Spirited Away, Shoplifters, Nobody Knows, ...",
+            "status": 1,
+            "slug": "nhat-ban"
+        }
+    },
+    {
+        "id": 149,
+        "title": "Ở Nhà Một Mình",
+        "title_eng": "Home Alone",
+        "duration": 103,
+        "season": "0",
+        "description": "Là cây đinh của mọi lễ Giáng Sinh kể từ khi ra mắt vào năm 1990, khán giả chưa bao giờ thấy mệt khi phải cười nghiêng ngả cùng cậu bé Kevin McCallister. Sau khi bị phạt và vô tình bị bỏ rơi vào kỳ nghỉ, Kevin bắt đầu làm loạn tại chính nhà mình. Cậu bé lục lọi hòm bí mật của anh trai, trượt tuyết trong nhà, vừa nhảy vừa ăn bỏng ngô trên giường của bố mẹ.",
+        "trailer": "0399820.mp4",
+        "tags": "Ở Nhà Một Mình, Home Alone, phim hài hước, phim gia đình",
+        "slug": "o-nha-mot-minh",
+        "resolution": 0,
+        "subtitle": 0,
+        "total_episode": 0,
+        "status": 1,
+        "poster": "image_d93db6a1259.jpeg",
+        "top10": "1b5ad8a0617111ecba1eaf311dbc2bf2457.jpeg",
+        "isHotMovie": 0,
+        "topView": 2,
+        "actor": "Macaulay Culkin, Joe Pesci, Daniel Stern, John Heard, Catherine O'Hara, Roberts Blossom, John Candy",
+        "director": "Chris Columbus",
+        "created_at": "2023-08-03 19:48:45",
+        "updated_at": "2023-08-05 23:35:16",
+        "year": "1990",
+        "type": "1",
+        "genre_id": 2,
+        "country_id": 9,
+        "episode_count": 1,
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 19,
+                "title": "Tình Cảm",
+                "description": "Phim tình cảm tập trung chủ yếu vào một câu chuyện tình lãng mạn hoặc quá trình tìm kiếm tình yêu mạnh mẽ, tinh khiết và lấy nó làm cốt truyện chính. Đôi khi, những đôi lứa yêu nhau trong phim sẽ gặp phải những trở ngại như tài chính, bệnh tật, nhiều kiểu phân biệt đối xử, hạn chế tâm lý hoặc sự đe doạ của gia đình đòi phá vỡ tình yêu của họ.",
+                "status": 1,
+                "slug": "tinh-cam",
+                "pivot": {
+                    "movie_id": 149,
+                    "genre_id": 19
+                }
+            },
+            {
+                "id": 25,
+                "title": "Phiêu Lưu",
+                "description": "Nội dung của phim phiêu lưu chủ yếu bao gồm bối cảnh từ những cuộc truy lùng các vùng đất đã mất, rừng rậm, núi và\/hoặc hoang mạc, các nhân vật sẽ lao vào những cuộc truy tìm kho báu và những chuyến đi quả cảm không thể đoán trước được kết quả. Vua, các trận đánh, cuộc nổi loạn hay cướp biển là những nhân vật thường xuất hiện trong phim phiêu lưu.",
+                "status": 1,
+                "slug": "phieu-luu",
+                "pivot": {
+                    "movie_id": 149,
+                    "genre_id": 25
+                }
+            },
+            {
+                "id": 26,
+                "title": "Hài Hước",
+                "description": "Phim hài hước là thể loại phim nhấn mạnh vào tính hài hước, là một trong những dòng phim lâu đời nhất và cũng chính là một trong số những bộ phim câm đầu tiên trên thế giới.  Những bộ phim hài thường là những câu chuyện có mục đích để giải trí. Tuy nhiên, cũng có một số phim đề cập tới những vấn đề chính trị, xã hội.",
+                "status": 1,
+                "slug": "hai-huoc",
+                "pivot": {
+                    "movie_id": 149,
+                    "genre_id": 26
+                }
+            },
+            {
+                "id": 29,
+                "title": "Gia Đình",
+                "description": "Phim gia đình tập trung vào những câu chuyện xoay quanh đề tài gia đình, mối quan hệ trong gia đình và các vấn đề phát sinh từ cuộc sống gia đình hàng ngày. Các yếu tố chính trong phim thường bao gồm tình cảm, tình thân, tình bạn, tình cha mẹ con cái, và các mối quan hệ khác trong gia đình. Các tình huống thường đề cao giá trị gia đình, sự đoàn kết, lòng hiếu thảo, và hỗ trợ lẫn nhau giữa các thành viên trong gia đình.",
+                "status": 1,
+                "slug": "gia-dinh",
+                "pivot": {
+                    "movie_id": 149,
+                    "genre_id": 29
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ (hay còn gọi là Hollywood) có nhiều đặc sắc và điểm nổi bật độc đáo mà không phim quốc gia nào có thể sánh được: thường có ngân sách lớn và sử dụng công nghệ kỹ xảo và hiệu ứng đặc biệt tiên tiến, tạo ra những cảnh quay ấn tượng, hùng vĩ và đẹp mắt, thể loại đa dạng. Những diễn viên nổi tiếng quốc tế của Âu Mỹ có nhiều và đa dạng: Tom Hanks (Forrest Gump, Cast Away), Meryl Streep - diễn viên xuất sắc nhất mọi thời đại (Sophie's Choice, The Iron Lady), Leonardo DiCaprio đã giành giải Oscar cho vai diễn trong phim \"The Revenant,\" cũng nổi tiếng với các phim Titanic, Angelina Jolie, Brad Pitt,...",
+            "status": 1,
+            "slug": "au-my"
+        }
+    },
+    {
+        "id": 148,
+        "title": "Chuyến Tàu Sinh Tử",
+        "title_eng": "Train To Busan",
+        "duration": 118,
+        "season": "0",
+        "description": "Phim Chuyến Tàu Sinh Tử lấy bối cảnh đất nước Hàn bị tấn công bởi một loại virus bí ẩn, biến con người thành những xác sống hung hăng, khát máu. Có mặt trên chuyến tàu từ Seoul tới Busan là một người cha cùng con gái, hai vợ chồng chuẩn bị đón đứa con đầu lòng và một số cô cậu học sinh cấp 3.",
+        "trailer": "trailer897.mp4",
+        "tags": "Chuyến Tàu Sinh Tử, Train To Busan, phim Hàn Quốc, phim kinh dị, phim hành động",
+        "slug": "chuyen-tau-sinh-tu",
+        "resolution": 1,
+        "subtitle": 0,
+        "total_episode": 0,
+        "status": 1,
+        "poster": "train-to-busan-1442.jpg",
+        "top10": "vNVFt6dtcqnI7hqa6LFBUibuFiw928.jpg",
+        "isHotMovie": 0,
+        "topView": 1,
+        "actor": "Gong Yoo, Jung Yu-mi, Ma Dong-seok",
+        "director": "Yeon Sang-ho",
+        "created_at": "2023-08-03 19:34:53",
+        "updated_at": "2023-08-05 23:35:58",
+        "year": "2016",
+        "type": "1",
+        "genre_id": 3,
+        "country_id": 12,
+        "episode_count": 1,
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 19,
+                "title": "Tình Cảm",
+                "description": "Phim tình cảm tập trung chủ yếu vào một câu chuyện tình lãng mạn hoặc quá trình tìm kiếm tình yêu mạnh mẽ, tinh khiết và lấy nó làm cốt truyện chính. Đôi khi, những đôi lứa yêu nhau trong phim sẽ gặp phải những trở ngại như tài chính, bệnh tật, nhiều kiểu phân biệt đối xử, hạn chế tâm lý hoặc sự đe doạ của gia đình đòi phá vỡ tình yêu của họ.",
+                "status": 1,
+                "slug": "tinh-cam",
+                "pivot": {
+                    "movie_id": 148,
+                    "genre_id": 19
+                }
+            },
+            {
+                "id": 23,
+                "title": "Khoa Học Viễn Tưởng",
+                "description": "Phim Khoa Học Viễn Tưởng là một thể loại phim sử dụng những mô tả mang tính tiên đoán và hư cấu dựa trên khoa học về các hiện tượng mà khoa học chính thống không chấp nhận đầy đủ như sinh vật ngoài Trái Đất, thế giới người ngoài hành tinh, ngoại cảm và du hành thời gian cùng với các yếu tố tương lai như tàu vũ trụ, robot, sinh vật cơ khí hóa, du hành liên sao hoặc các kỹ thuật khác.",
+                "status": 1,
+                "slug": "khoa-hoc-vien-tuong",
+                "pivot": {
+                    "movie_id": 148,
+                    "genre_id": 23
+                }
+            },
+            {
+                "id": 25,
+                "title": "Phiêu Lưu",
+                "description": "Nội dung của phim phiêu lưu chủ yếu bao gồm bối cảnh từ những cuộc truy lùng các vùng đất đã mất, rừng rậm, núi và\/hoặc hoang mạc, các nhân vật sẽ lao vào những cuộc truy tìm kho báu và những chuyến đi quả cảm không thể đoán trước được kết quả. Vua, các trận đánh, cuộc nổi loạn hay cướp biển là những nhân vật thường xuất hiện trong phim phiêu lưu.",
+                "status": 1,
+                "slug": "phieu-luu",
+                "pivot": {
+                    "movie_id": 148,
+                    "genre_id": 25
+                }
+            },
+            {
+                "id": 27,
+                "title": "Kinh Dị",
+                "description": "Kinh dị là một thể loại phim tìm cách khơi gợi nỗi sợ hoặc ghê tởm ở khán giả nhằm mục đích giải trí. Phim kinh dị thường khám phá chủ đề đen tối và có thể liên quan đến các đề tài xúc phạm. Những yếu tố rộng bao gồm quái vật, sự kiện khải huyền và tín ngưỡng tôn giáo hoặc dân gian. Những kỹ thuật làm phim kinh dị đã được chứng minh là kích thích phản ứng tâm lý ở khán giả.",
+                "status": 1,
+                "slug": "kinh-di",
+                "pivot": {
+                    "movie_id": 148,
+                    "genre_id": 27
+                }
+            },
+            {
+                "id": 29,
+                "title": "Gia Đình",
+                "description": "Phim gia đình tập trung vào những câu chuyện xoay quanh đề tài gia đình, mối quan hệ trong gia đình và các vấn đề phát sinh từ cuộc sống gia đình hàng ngày. Các yếu tố chính trong phim thường bao gồm tình cảm, tình thân, tình bạn, tình cha mẹ con cái, và các mối quan hệ khác trong gia đình. Các tình huống thường đề cao giá trị gia đình, sự đoàn kết, lòng hiếu thảo, và hỗ trợ lẫn nhau giữa các thành viên trong gia đình.",
+                "status": 1,
+                "slug": "gia-dinh",
+                "pivot": {
+                    "movie_id": 148,
+                    "genre_id": 29
+                }
+            },
+            {
+                "id": 32,
+                "title": "Hành Động",
+                "description": "Các nhân vật trong phim hành động thường là những anh hùng hoặc nhân vật có khả năng chiến đấu, đòi hỏi họ phải đối mặt với những thử thách nguy hiểm để bảo vệ mục tiêu hoặc giải quyết vấn đề. Những pha hành động trong phim thường được đạo diễn và thực hiện một cách chuyên nghiệp, sử dụng các kỹ xảo, đạo cụ và đôi khi cả diễn viên đặc biệt để tạo ra những cảnh quay ấn tượng và hấp dẫn.",
+                "status": 1,
+                "slug": "hanh-dong",
+                "pivot": {
+                    "movie_id": 148,
+                    "genre_id": 32
+                }
+            }
+        ],
+        "country": {
+            "id": 12,
+            "title": "Hàn Quốc",
+            "description": "Phim Hàn Quốc thường đào tạo và ra mắt nhiều diễn viên trẻ tài năng, tạo sự đa dạng và cạnh tranh trong ngành điện ảnh, nổi tiếng với các kịch bản tình cảm sâu sắc và diễn đạt cảm xúc tinh tế, tạo nên những câu chuyện đầy cảm động và lôi cuốn. Nhạc Hàn Quốc (K-pop) thường gắn liền với các bộ phim và đã trở thành một yếu tố quan trọng góp phần nâng cao sự hấp dẫn của phim Hàn Quốc. Những phim Hàn Quốc đã đạt giải thưởng quốc tế: Ký Sinh Trùng, Cậu Bé Của Gã Sát Thủ, Đốt Cháy, Người Hầu Gái, Tàu Điện Ngầm Tử Thần,...",
+            "status": 1,
+            "slug": "han-quoc"
+        }
+    },
+    {
+        "id": 146,
+        "title": "Búp Bê Ma Ám",
+        "title_eng": "Annabelle",
+        "duration": 99,
+        "season": "1",
+        "description": "Annabelle là câu chuyện về nguồn gốc của búp bê quỷ ám. Đi sâu vào bộ phim lần này Annabelle xuất hiện tại một gia đình vợ chồng trẻ. Món quà John tặng vợ mình nhân dịp sinh nhật và chuyển tói nhà mới chính là con búp bê Annabelle. Vào một đêm định mệnh, nhà của họ bị hai kẻ tâm thần đột nhập vào. Kể từ sau sự kiện kinh hoàng, nhiều hiện tượng kì quái bắt đầu xảy ra trong nhà và đều liên quan tới búp bê Annabelle…",
+        "trailer": "0387489.mp4",
+        "tags": "Búp Bê Ma Ám, Annabelle, phim kinh dị, phim Âu Mỹ",
+        "slug": "bup-be-ma-am",
+        "resolution": 2,
+        "subtitle": 0,
+        "total_episode": 1,
+        "status": 1,
+        "poster": "z4572329247207_ab3cccde33008818869f9280bf5d4d21292.jpg",
+        "top10": "Annabelle-poster904.jpg",
+        "isHotMovie": 0,
+        "topView": 2,
+        "actor": "Annabelle Wallis, Ward Horton, Alfre Woodard",
+        "director": "John R. Leonetti",
+        "created_at": "2023-08-03 18:57:57",
+        "updated_at": "2023-08-05 23:36:30",
+        "year": "2014",
+        "type": "1",
+        "genre_id": 2,
+        "country_id": 9,
+        "episode_count": 1,
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 27,
+                "title": "Kinh Dị",
+                "description": "Kinh dị là một thể loại phim tìm cách khơi gợi nỗi sợ hoặc ghê tởm ở khán giả nhằm mục đích giải trí. Phim kinh dị thường khám phá chủ đề đen tối và có thể liên quan đến các đề tài xúc phạm. Những yếu tố rộng bao gồm quái vật, sự kiện khải huyền và tín ngưỡng tôn giáo hoặc dân gian. Những kỹ thuật làm phim kinh dị đã được chứng minh là kích thích phản ứng tâm lý ở khán giả.",
+                "status": 1,
+                "slug": "kinh-di",
+                "pivot": {
+                    "movie_id": 146,
+                    "genre_id": 27
+                }
+            },
+            {
+                "id": 29,
+                "title": "Gia Đình",
+                "description": "Phim gia đình tập trung vào những câu chuyện xoay quanh đề tài gia đình, mối quan hệ trong gia đình và các vấn đề phát sinh từ cuộc sống gia đình hàng ngày. Các yếu tố chính trong phim thường bao gồm tình cảm, tình thân, tình bạn, tình cha mẹ con cái, và các mối quan hệ khác trong gia đình. Các tình huống thường đề cao giá trị gia đình, sự đoàn kết, lòng hiếu thảo, và hỗ trợ lẫn nhau giữa các thành viên trong gia đình.",
+                "status": 1,
+                "slug": "gia-dinh",
+                "pivot": {
+                    "movie_id": 146,
+                    "genre_id": 29
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ (hay còn gọi là Hollywood) có nhiều đặc sắc và điểm nổi bật độc đáo mà không phim quốc gia nào có thể sánh được: thường có ngân sách lớn và sử dụng công nghệ kỹ xảo và hiệu ứng đặc biệt tiên tiến, tạo ra những cảnh quay ấn tượng, hùng vĩ và đẹp mắt, thể loại đa dạng. Những diễn viên nổi tiếng quốc tế của Âu Mỹ có nhiều và đa dạng: Tom Hanks (Forrest Gump, Cast Away), Meryl Streep - diễn viên xuất sắc nhất mọi thời đại (Sophie's Choice, The Iron Lady), Leonardo DiCaprio đã giành giải Oscar cho vai diễn trong phim \"The Revenant,\" cũng nổi tiếng với các phim Titanic, Angelina Jolie, Brad Pitt,...",
+            "status": 1,
+            "slug": "au-my"
+        }
+    },
+    {
+        "id": 145,
+        "title": "Khi Anh Chạy Về Phía Em",
+        "title_eng": "When I Fly Towards You",
+        "duration": 45,
+        "season": "0",
+        "description": "Khi Anh Chạy Về Phía Em được chuyển thể từ tiểu thuyết Cô Ấy Bị Bệnh Không Nhẹ của tác giả Tiểu Trúc Dĩ kể về nữ sinh trung học Tô Tại Tại lạc quan cởi mở bị nam sinh Trương Lục Nhượng lạnh lùng lầm lì thu hút. Cô dùng mặt trời nhỏ tích cực của mình sưởi ấm sự tự ti của Trương Lục Nhượng, Tô Tại Tại cũng thu hồi sự phân tâm của mình, hăng hái tiến về phía trước. Họ bên nhau cùng nhau trưởng thành, vì yêu mà trở nên tốt hơn.",
+        "trailer": "khi-anh-chay-ve-phia-em36.mp4",
+        "tags": "Khi Anh Chạy Về Phía Em, phim học đường, phim Trung Quốc, phim tình cảm",
+        "slug": "khi-anh-chay-ve-phia-em",
+        "resolution": 0,
+        "subtitle": 1,
+        "total_episode": 24,
+        "status": 1,
+        "poster": "review-khi-anh-chay-ve-phia-em-phim-thanh-xuan-3-1565.jpg",
+        "top10": "z4553487869840_7369de3d3564f5a8b96101d4fa284c87122.jpg",
+        "isHotMovie": 1,
+        "topView": 0,
+        "actor": "Chu Dực Nhiên, Trương Miểu Di",
+        "director": "Miêu Đích Thụ",
+        "created_at": "2023-07-29 20:05:27",
+        "updated_at": "2023-08-05 23:37:08",
+        "year": "2023",
+        "type": "2",
+        "genre_id": 3,
+        "country_id": 10,
+        "episode_count": 24,
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 19,
+                "title": "Tình Cảm",
+                "description": "Phim tình cảm tập trung chủ yếu vào một câu chuyện tình lãng mạn hoặc quá trình tìm kiếm tình yêu mạnh mẽ, tinh khiết và lấy nó làm cốt truyện chính. Đôi khi, những đôi lứa yêu nhau trong phim sẽ gặp phải những trở ngại như tài chính, bệnh tật, nhiều kiểu phân biệt đối xử, hạn chế tâm lý hoặc sự đe doạ của gia đình đòi phá vỡ tình yêu của họ.",
+                "status": 1,
+                "slug": "tinh-cam",
+                "pivot": {
+                    "movie_id": 145,
+                    "genre_id": 19
+                }
+            },
+            {
+                "id": 36,
+                "title": "Học Đường",
+                "description": "Phim học đường là thể loại phim xoay quanh các mối quan hệ thầy cô, bạn bè và cả tình cảm đơn thuần của lứa tuổi học trò cùng những câu chuyện thể hiện tâm lý tuổi mới lớn.",
+                "status": 1,
+                "slug": "hoc-duong",
+                "pivot": {
+                    "movie_id": 145,
+                    "genre_id": 36
+                }
+            }
+        ],
+        "country": {
+            "id": 10,
+            "title": "Trung Quốc",
+            "description": "Phim Trung Quốc thường nổi tiếng với các cảnh hành động và võ thuật đẹp mắt, sử dụng các kỹ thuật truyền thống võ thuật và những đòn đánh đặc trưng của nền văn hóa Trung Quốc, cảnh quay thiên nhiên đa dạng và đẹp mắt. Phim Trung Quốc thường tái hiện lại trang phục và lịch sử văn hóa của các triều đại và giai đoạn lịch sử quan trọng trong lịch sử nước này, tạo nên những bộ phim truyền thống đậm đà văn hóa dân tộc, hơn nữa, nhạc phim Trung Quốc cũng rất ấn tượng. Những diễn viên nổi tiếng quốc tế của Trung Quốc: Thành Long: Là diễn viên, đạo diễn và nhà sản xuất nổi tiếng với các phim hành động võ thuật như Rush Hour, Police Story, và Drunken Master; Chân Tử Đan (Diệp Vấn); Lý Liên Kiệt (Hoàng Phi Hồng); Trương Tử Di; Tôn Lệ (Chân Hoàn Truyện),...",
+            "status": 1,
+            "slug": "trung-quoc"
+        }
+    },
+    {
+        "id": 144,
+        "title": "Trường Học Nội Trú",
+        "title_eng": "Home School",
+        "duration": 50,
+        "season": "0",
+        "description": "Trường Học Nội Trú: Home School xoay quanh một ngôi trường nội trú nằm giữa một khu rừng hẻo lánh. Ba năm một lần, trường chọn những học sinh mới đáp ứng các tiêu chí của họ, mỗi thế hệ bao gồm không quá mười ba học sinh. Các sinh viên dành tổng cộng ba năm tại trường. Ngôi trường nhằm thu hút những sinh viên giàu có với chương trình giảng dạy độc đáo và tất cả những tiện nghi như ở nhà. Tuy nhiên, Home School có vẻ giống một nhà tù hơn là một trường học với những quy tắc nghiêm ngặt và sự cô lập hoàn toàn.",
+        "trailer": "home-school125.mp4",
+        "tags": "Trường Học Nội Trú, phim Thái Lan, phim kinh dị",
+        "slug": "truong-hoc-noi-tru",
+        "resolution": 3,
+        "subtitle": 0,
+        "total_episode": 18,
+        "status": 1,
+        "poster": "truong-hoc-noi-tru835.jpg",
+        "top10": "z4553487759439_18c3dd33ec648dc53112a2515bce75be722.jpg",
+        "isHotMovie": 1,
+        "topView": 0,
+        "actor": "Nappon Gomarachun, Sirinya Bishop, Atthaphan Phunsawat, Chalad, Na Songkhla, Rachanun Mahawan",
+        "director": "Kanittha Kwanyu",
+        "created_at": "2023-07-28 05:20:51",
+        "updated_at": "2023-08-05 23:37:44",
+        "year": "2023",
+        "type": "2",
+        "genre_id": 2,
+        "country_id": 15,
+        "episode_count": 0,
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 19,
+                "title": "Tình Cảm",
+                "description": "Phim tình cảm tập trung chủ yếu vào một câu chuyện tình lãng mạn hoặc quá trình tìm kiếm tình yêu mạnh mẽ, tinh khiết và lấy nó làm cốt truyện chính. Đôi khi, những đôi lứa yêu nhau trong phim sẽ gặp phải những trở ngại như tài chính, bệnh tật, nhiều kiểu phân biệt đối xử, hạn chế tâm lý hoặc sự đe doạ của gia đình đòi phá vỡ tình yêu của họ.",
+                "status": 1,
+                "slug": "tinh-cam",
+                "pivot": {
+                    "movie_id": 144,
+                    "genre_id": 19
+                }
+            },
+            {
+                "id": 27,
+                "title": "Kinh Dị",
+                "description": "Kinh dị là một thể loại phim tìm cách khơi gợi nỗi sợ hoặc ghê tởm ở khán giả nhằm mục đích giải trí. Phim kinh dị thường khám phá chủ đề đen tối và có thể liên quan đến các đề tài xúc phạm. Những yếu tố rộng bao gồm quái vật, sự kiện khải huyền và tín ngưỡng tôn giáo hoặc dân gian. Những kỹ thuật làm phim kinh dị đã được chứng minh là kích thích phản ứng tâm lý ở khán giả.",
+                "status": 1,
+                "slug": "kinh-di",
+                "pivot": {
+                    "movie_id": 144,
+                    "genre_id": 27
+                }
+            }
+        ],
+        "country": {
+            "id": 15,
+            "title": "Thái Lan",
+            "description": "Dù có nhiều thể loại phim khác nhau, nhưng phim kinh dị và phim hài - kịch tính là hai thể loại mà ngành công nghiệp điện ảnh Thái Lan đã gây ấn tượng mạnh mẽ và để lại dấu ấn sâu sắc trên trường quốc tế. Những bộ phim kinh dị như \"Shutter\" (Khách Sạn Bí Ẩn), \"Pee Mak\" (Ông Xã Ma), và \"Ladda Land\" (Xứ Sở Ladda). Những bộ phim hài - kịch tích như \"Crazy Little Thing Called Love\" (Điều Gì Đến Rồi Cũng Đến), \"Hello Stranger\" (Người Lạ Ơi), và \"SuckSeed\" (Tuổi Thanh Xuân)",
+            "status": 1,
+            "slug": "thai-lan"
+        }
+    },
+    {
+        "id": 142,
+        "title": "Bỗng Dưng Trúng Số",
+        "title_eng": "6\/45",
+        "duration": 113,
+        "season": "0",
+        "description": "Bỗng Dưng Trúng Số kể về hành trình “hạ cánh” đầy bất ổn của một tờ vé số bay từ Hàn Quốc qua Triều Tiên. Từ đó, câu chuyện hài hước bậc nhất màn ảnh được mở ra khi những người lính của hai bên phải bước vào một cuộc đàm phán vô tiền khoáng hậu để quyết định số phận của giải độc đắc hàng triệu đô.",
+        "trailer": "bong-dung-trung-so827.mp4",
+        "tags": "Bỗng Dưng Trúng Số, phim hài, phim Hàn Quốc, phim hài hước",
+        "slug": "bong-dung-trung-so",
+        "resolution": 2,
+        "subtitle": 0,
+        "total_episode": 1,
+        "status": 1,
+        "poster": "bong-dung-trung-so552.jpg",
+        "top10": "z4557929882205_c4175fce646695405cea4f500cc4dd48489.jpg",
+        "isHotMovie": 0,
+        "topView": 1,
+        "actor": "Go Kyung-pyo, Lee Yi-kyung Eum, Moon-suk, Park Se-wan, Kwak Dong-yeon, Lee Soon-won, Kim Min-ho",
+        "director": "Park Gyu-tae",
+        "created_at": "2023-07-28 02:20:32",
+        "updated_at": "2023-08-05 23:38:25",
+        "year": "2022",
+        "type": "1",
+        "genre_id": 2,
+        "country_id": 12,
+        "episode_count": 1,
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 19,
+                "title": "Tình Cảm",
+                "description": "Phim tình cảm tập trung chủ yếu vào một câu chuyện tình lãng mạn hoặc quá trình tìm kiếm tình yêu mạnh mẽ, tinh khiết và lấy nó làm cốt truyện chính. Đôi khi, những đôi lứa yêu nhau trong phim sẽ gặp phải những trở ngại như tài chính, bệnh tật, nhiều kiểu phân biệt đối xử, hạn chế tâm lý hoặc sự đe doạ của gia đình đòi phá vỡ tình yêu của họ.",
+                "status": 1,
+                "slug": "tinh-cam",
+                "pivot": {
+                    "movie_id": 142,
+                    "genre_id": 19
+                }
+            },
+            {
+                "id": 26,
+                "title": "Hài Hước",
+                "description": "Phim hài hước là thể loại phim nhấn mạnh vào tính hài hước, là một trong những dòng phim lâu đời nhất và cũng chính là một trong số những bộ phim câm đầu tiên trên thế giới.  Những bộ phim hài thường là những câu chuyện có mục đích để giải trí. Tuy nhiên, cũng có một số phim đề cập tới những vấn đề chính trị, xã hội.",
+                "status": 1,
+                "slug": "hai-huoc",
+                "pivot": {
+                    "movie_id": 142,
+                    "genre_id": 26
+                }
+            },
+            {
+                "id": 29,
+                "title": "Gia Đình",
+                "description": "Phim gia đình tập trung vào những câu chuyện xoay quanh đề tài gia đình, mối quan hệ trong gia đình và các vấn đề phát sinh từ cuộc sống gia đình hàng ngày. Các yếu tố chính trong phim thường bao gồm tình cảm, tình thân, tình bạn, tình cha mẹ con cái, và các mối quan hệ khác trong gia đình. Các tình huống thường đề cao giá trị gia đình, sự đoàn kết, lòng hiếu thảo, và hỗ trợ lẫn nhau giữa các thành viên trong gia đình.",
+                "status": 1,
+                "slug": "gia-dinh",
+                "pivot": {
+                    "movie_id": 142,
+                    "genre_id": 29
+                }
+            }
+        ],
+        "country": {
+            "id": 12,
+            "title": "Hàn Quốc",
+            "description": "Phim Hàn Quốc thường đào tạo và ra mắt nhiều diễn viên trẻ tài năng, tạo sự đa dạng và cạnh tranh trong ngành điện ảnh, nổi tiếng với các kịch bản tình cảm sâu sắc và diễn đạt cảm xúc tinh tế, tạo nên những câu chuyện đầy cảm động và lôi cuốn. Nhạc Hàn Quốc (K-pop) thường gắn liền với các bộ phim và đã trở thành một yếu tố quan trọng góp phần nâng cao sự hấp dẫn của phim Hàn Quốc. Những phim Hàn Quốc đã đạt giải thưởng quốc tế: Ký Sinh Trùng, Cậu Bé Của Gã Sát Thủ, Đốt Cháy, Người Hầu Gái, Tàu Điện Ngầm Tử Thần,...",
+            "status": 1,
+            "slug": "han-quoc"
+        }
+    },
+    {
+        "id": 141,
+        "title": "Đời Sống Ngục Tù",
+        "title_eng": "Prison Playbook",
+        "duration": 60,
+        "season": "0",
+        "description": "Je Hyeok là ngôi sao bóng chày nổi tiếng, sắp đến Mỹ thi đấu cho một đội bóng danh giá.Thế nhưng cuộc đời anh rẽ sang hướng khác khi bị tuyên án một năm tù vì tội tấn công kẻ có ý định hãm hiếp em gái mình.Je Hyeok bắt đầu cuộc sống mới tại một nhà tù có khẩu hiệu đầy dễ thương: Chúng tôi sẽ giúp bạn như người một nhà.",
+        "trailer": "doi-song-nguc-tu516.mp4",
+        "tags": "Đời Sống Ngục Tù, phim Hàn Quốc",
+        "slug": "doi-song-nguc-tu",
+        "resolution": 2,
+        "subtitle": 0,
+        "total_episode": 16,
+        "status": 1,
+        "poster": "doi-song-nguc-tu397.jpg",
+        "top10": "abc920.jpg",
+        "isHotMovie": 1,
+        "topView": 0,
+        "actor": "Jung Kyung HoJung Soo JungPark Hae Soo",
+        "director": "Shin Won-ho",
+        "created_at": "2023-07-28 02:16:35",
+        "updated_at": "2023-08-05 23:39:37",
+        "year": "2017",
+        "type": "2",
+        "genre_id": 3,
+        "country_id": 12,
+        "episode_count": 8,
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 19,
+                "title": "Tình Cảm",
+                "description": "Phim tình cảm tập trung chủ yếu vào một câu chuyện tình lãng mạn hoặc quá trình tìm kiếm tình yêu mạnh mẽ, tinh khiết và lấy nó làm cốt truyện chính. Đôi khi, những đôi lứa yêu nhau trong phim sẽ gặp phải những trở ngại như tài chính, bệnh tật, nhiều kiểu phân biệt đối xử, hạn chế tâm lý hoặc sự đe doạ của gia đình đòi phá vỡ tình yêu của họ.",
+                "status": 1,
+                "slug": "tinh-cam",
+                "pivot": {
+                    "movie_id": 141,
+                    "genre_id": 19
+                }
+            },
+            {
+                "id": 26,
+                "title": "Hài Hước",
+                "description": "Phim hài hước là thể loại phim nhấn mạnh vào tính hài hước, là một trong những dòng phim lâu đời nhất và cũng chính là một trong số những bộ phim câm đầu tiên trên thế giới.  Những bộ phim hài thường là những câu chuyện có mục đích để giải trí. Tuy nhiên, cũng có một số phim đề cập tới những vấn đề chính trị, xã hội.",
+                "status": 1,
+                "slug": "hai-huoc",
+                "pivot": {
+                    "movie_id": 141,
+                    "genre_id": 26
+                }
+            },
+            {
+                "id": 32,
+                "title": "Hành Động",
+                "description": "Các nhân vật trong phim hành động thường là những anh hùng hoặc nhân vật có khả năng chiến đấu, đòi hỏi họ phải đối mặt với những thử thách nguy hiểm để bảo vệ mục tiêu hoặc giải quyết vấn đề. Những pha hành động trong phim thường được đạo diễn và thực hiện một cách chuyên nghiệp, sử dụng các kỹ xảo, đạo cụ và đôi khi cả diễn viên đặc biệt để tạo ra những cảnh quay ấn tượng và hấp dẫn.",
+                "status": 1,
+                "slug": "hanh-dong",
+                "pivot": {
+                    "movie_id": 141,
+                    "genre_id": 32
+                }
+            }
+        ],
+        "country": {
+            "id": 12,
+            "title": "Hàn Quốc",
+            "description": "Phim Hàn Quốc thường đào tạo và ra mắt nhiều diễn viên trẻ tài năng, tạo sự đa dạng và cạnh tranh trong ngành điện ảnh, nổi tiếng với các kịch bản tình cảm sâu sắc và diễn đạt cảm xúc tinh tế, tạo nên những câu chuyện đầy cảm động và lôi cuốn. Nhạc Hàn Quốc (K-pop) thường gắn liền với các bộ phim và đã trở thành một yếu tố quan trọng góp phần nâng cao sự hấp dẫn của phim Hàn Quốc. Những phim Hàn Quốc đã đạt giải thưởng quốc tế: Ký Sinh Trùng, Cậu Bé Của Gã Sát Thủ, Đốt Cháy, Người Hầu Gái, Tàu Điện Ngầm Tử Thần,...",
+            "status": 1,
+            "slug": "han-quoc"
+        }
+    },
+    {
+        "id": 140,
+        "title": "Quái Thú So Tài",
+        "title_eng": "Rumble",
+        "duration": 95,
+        "season": "0",
+        "description": "Quái Thú So Tài kể về trong một thế giới nơi đô vật quái vật là một môn thể thao toàn cầu và quái vật là những vận động viên siêu sao, cô bé Winnie tìm cách theo bước chân của cha mình bằng cách huấn luyện một con quái vật \"nhỏ đáng yêu\" trở thành một nhà vô địch.",
+        "trailer": "quai-thu-so-tai926.mp4",
+        "tags": "Quái Thú So Tài, phim Âu Mỹ, phim hoạt hình",
+        "slug": "quai-thu-so-tai",
+        "resolution": 1,
+        "subtitle": 0,
+        "total_episode": 1,
+        "status": 1,
+        "poster": "quai-thu-so-tai409.jpg",
+        "top10": "Quái-thú-so-chiêu-2021894.jpg",
+        "isHotMovie": 0,
+        "topView": 1,
+        "actor": "Terry Crews, Will Arnett, Jimmy Tatro, Geraldine Viswanathan, Ben Schwartz",
+        "director": "Hamish Grieve",
+        "created_at": "2023-07-27 21:25:18",
+        "updated_at": "2023-08-05 23:40:48",
+        "year": "2021",
+        "type": "1",
+        "genre_id": 2,
+        "country_id": 9,
+        "episode_count": 1,
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 25,
+                "title": "Phiêu Lưu",
+                "description": "Nội dung của phim phiêu lưu chủ yếu bao gồm bối cảnh từ những cuộc truy lùng các vùng đất đã mất, rừng rậm, núi và\/hoặc hoang mạc, các nhân vật sẽ lao vào những cuộc truy tìm kho báu và những chuyến đi quả cảm không thể đoán trước được kết quả. Vua, các trận đánh, cuộc nổi loạn hay cướp biển là những nhân vật thường xuất hiện trong phim phiêu lưu.",
+                "status": 1,
+                "slug": "phieu-luu",
+                "pivot": {
+                    "movie_id": 140,
+                    "genre_id": 25
+                }
+            },
+            {
+                "id": 28,
+                "title": "Hoạt Hình",
+                "description": "Phim hoạt hình hay phim hoạt họa là một hình thức sử dụng ảo ảnh quang học về sự chuyển động do nhiều hình ảnh tĩnh được chiếu tiếp diễn liên tục. Trong phim và trong kỹ nghệ dàn dựng, hoạt họa ám chỉ đến kỹ thuật trong đó từng khung hình của phim được chế tác riêng rẽ. Hiện nay, nhờ sự phát triển trong hoạt họa máy tính, tốc độ quá trình sản xuất phim đã được tăng lên rất nhiều.",
+                "status": 1,
+                "slug": "hoat-hinh",
+                "pivot": {
+                    "movie_id": 140,
+                    "genre_id": 28
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ (hay còn gọi là Hollywood) có nhiều đặc sắc và điểm nổi bật độc đáo mà không phim quốc gia nào có thể sánh được: thường có ngân sách lớn và sử dụng công nghệ kỹ xảo và hiệu ứng đặc biệt tiên tiến, tạo ra những cảnh quay ấn tượng, hùng vĩ và đẹp mắt, thể loại đa dạng. Những diễn viên nổi tiếng quốc tế của Âu Mỹ có nhiều và đa dạng: Tom Hanks (Forrest Gump, Cast Away), Meryl Streep - diễn viên xuất sắc nhất mọi thời đại (Sophie's Choice, The Iron Lady), Leonardo DiCaprio đã giành giải Oscar cho vai diễn trong phim \"The Revenant,\" cũng nổi tiếng với các phim Titanic, Angelina Jolie, Brad Pitt,...",
+            "status": 1,
+            "slug": "au-my"
+        }
+    },
+    {
+        "id": 139,
+        "title": "Trường Tương Tư",
+        "title_eng": "Lost You Forever",
+        "duration": 50,
+        "season": "0",
+        "description": "Trường Tương Tư – Lost You Forever kể về con gái của Xi Vưu và Tây Lăng Hành là Cao Tân Cửu Dao có tên gọi thân thuộc là Tiểu Yêu. Khi Tiểu Yêu vừa sinh ra đời đã được gửi gắm cho vương mẫu Ngọc Sơn, nhưng người không may chết đi trong một trận đại chiến. Tiểu Yêu không đợi được người thân đến đón, hiểu lầm bản thân bị bỏ rơi, không ai cần nàng nữa liền rời khỏi Ngọc Sơn. Tiểu Yêu không biết đã trải qua bao nhiêu gian nan cùng thử thách, nàng cải trang thành nam nhi, đổi tên thành Văn Tiểu Lục và hành nghề y.",
+        "trailer": "truong-tuong-tu947.mp4",
+        "tags": "Trường Tương Tư, Lost You Forever, phim Trung Quốc, phim tình cảm, phim cổ trang, phim thần thoại, phim kiếm hiệp",
+        "slug": "truong-tuong-tu",
+        "resolution": 1,
+        "subtitle": 1,
+        "total_episode": 39,
+        "status": 1,
+        "poster": "truong-tuong-tu448.jpg",
+        "top10": "images377.jfif",
+        "isHotMovie": 1,
+        "topView": 2,
+        "actor": "Dương Tử, Trương Vãn Ý, Đặng Vi, Đàn Kiện Thứ, Đại Lộ Oa, Vương Hoằng Nghị",
+        "director": "Tần Trân",
+        "created_at": "2023-07-26 01:09:47",
+        "updated_at": "2023-08-05 23:41:30",
+        "year": "2023",
+        "type": "2",
+        "genre_id": 3,
+        "country_id": 10,
+        "episode_count": 5,
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 19,
+                "title": "Tình Cảm",
+                "description": "Phim tình cảm tập trung chủ yếu vào một câu chuyện tình lãng mạn hoặc quá trình tìm kiếm tình yêu mạnh mẽ, tinh khiết và lấy nó làm cốt truyện chính. Đôi khi, những đôi lứa yêu nhau trong phim sẽ gặp phải những trở ngại như tài chính, bệnh tật, nhiều kiểu phân biệt đối xử, hạn chế tâm lý hoặc sự đe doạ của gia đình đòi phá vỡ tình yêu của họ.",
+                "status": 1,
+                "slug": "tinh-cam",
+                "pivot": {
+                    "movie_id": 139,
+                    "genre_id": 19
+                }
+            },
+            {
+                "id": 22,
+                "title": "Kiếm Hiệp",
+                "description": "Võ hiệp hoặc kiếm hiệp là một thể loại trong văn hóa đại chúng Hoa ngữ nói về những cuộc phiêu du của những hiệp khách (cao thủ, kiếm khách) trên giang hồ. Những võ sĩ hành hiệp thường được gọi là hiệp khách dù không nhất thiết phải mang kiếm. Hiệp khách thường tuân theo quy tắc làm điều đúng, đấu tranh cho lẽ phải, xóa bỏ đàn áp, sửa chữa cái sai và khắc phục những lỗi lầm trong quá khứ.",
+                "status": 1,
+                "slug": "kiem-hiep",
+                "pivot": {
+                    "movie_id": 139,
+                    "genre_id": 22
+                }
+            },
+            {
+                "id": 24,
+                "title": "Cổ Trang",
+                "description": "Phim cổ trang là một thể loại phim chi tiết hóa các phục trang, bối cảnh và đạo cụ sao cho đặc trưng nhất để hợp với bầu không khí của giai đoạn trước khi chế độ phong kiến sụp đổ. Ngoài ra còn có những bộ phim giả tưởng lấy đề tài về các nhân vật và sự kiện lịch sử.",
+                "status": 1,
+                "slug": "co-trang",
+                "pivot": {
+                    "movie_id": 139,
+                    "genre_id": 24
+                }
+            },
+            {
+                "id": 34,
+                "title": "Thần Thoại",
+                "description": "Trong phim thần thoại, các nhân vật thường là các vị thần, nữ thần, anh hùng, yêu quái, và các sinh vật siêu nhiên có sức mạnh phi thường. Phim thần thoại thường đưa người xem vào một thế giới thần thoại phong phú và đầy màu sắc, nơi các vị thần và nhân vật huyền thoại sống chung với nhau trong các câu chuyện ly kỳ và phiêu lưu.",
+                "status": 1,
+                "slug": "than-thoai",
+                "pivot": {
+                    "movie_id": 139,
+                    "genre_id": 34
+                }
+            }
+        ],
+        "country": {
+            "id": 10,
+            "title": "Trung Quốc",
+            "description": "Phim Trung Quốc thường nổi tiếng với các cảnh hành động và võ thuật đẹp mắt, sử dụng các kỹ thuật truyền thống võ thuật và những đòn đánh đặc trưng của nền văn hóa Trung Quốc, cảnh quay thiên nhiên đa dạng và đẹp mắt. Phim Trung Quốc thường tái hiện lại trang phục và lịch sử văn hóa của các triều đại và giai đoạn lịch sử quan trọng trong lịch sử nước này, tạo nên những bộ phim truyền thống đậm đà văn hóa dân tộc, hơn nữa, nhạc phim Trung Quốc cũng rất ấn tượng. Những diễn viên nổi tiếng quốc tế của Trung Quốc: Thành Long: Là diễn viên, đạo diễn và nhà sản xuất nổi tiếng với các phim hành động võ thuật như Rush Hour, Police Story, và Drunken Master; Chân Tử Đan (Diệp Vấn); Lý Liên Kiệt (Hoàng Phi Hồng); Trương Tử Di; Tôn Lệ (Chân Hoàn Truyện),...",
+            "status": 1,
+            "slug": "trung-quoc"
+        }
+    },
+    {
+        "id": 138,
+        "title": "Đặc Vụ Xuyên Quốc Gia",
+        "title_eng": "Confidential Assignment",
+        "duration": 129,
+        "season": "2",
+        "description": "Theo chân Rim Chul Ryung quay trở lại Hàn Quốc để truy đuổi một tổ chức tội phạm tàn bạo và bí mật. Anh ấy hợp tác một lần nữa với Kang Jin Tae, người tình nguyện làm việc với Triều Tiên để trở lại đội điều tra sau khi một sai lầm đưa anh ấy vào bộ phận tội phạm mạng.",
+        "trailer": "dac-vu-xuyen-quoc-gia261.mp4",
+        "tags": "Đặc vụ xuyên quốc gia, phim Hàn Quốc, phim hành động, phim hài hước",
+        "slug": "dac-vu-xuyen-quoc-gia",
+        "resolution": 2,
+        "subtitle": 0,
+        "total_episode": 1,
+        "status": 1,
+        "poster": "dac-vu-xuyen-quoc-gia171.jpg",
+        "top10": "z4555900.jpg",
+        "isHotMovie": 1,
+        "topView": 0,
+        "actor": "Hyun Bin, Yoo Hae Jin, Im Yoon Ah, Daniel Henney, Jin Seon Kyu, Seo Dong Won",
+        "director": "Lee Seok Hoon",
+        "created_at": "2023",
+        "updated_at": "2023-08-05 23:56:34",
+        "year": "2022",
+        "type": "1",
+        "genre_id": 3,
+        "country_id": 12,
+        "episode_count": 1,
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 19,
+                "title": "Tình Cảm",
+                "description": "Phim tình cảm tập trung chủ yếu vào một câu chuyện tình lãng mạn hoặc quá trình tìm kiếm tình yêu mạnh mẽ, tinh khiết và lấy nó làm cốt truyện chính. Đôi khi, những đôi lứa yêu nhau trong phim sẽ gặp phải những trở ngại như tài chính, bệnh tật, nhiều kiểu phân biệt đối xử, hạn chế tâm lý hoặc sự đe doạ của gia đình đòi phá vỡ tình yêu của họ.",
+                "status": 1,
+                "slug": "tinh-cam",
+                "pivot": {
+                    "movie_id": 138,
+                    "genre_id": 19
+                }
+            },
+            {
+                "id": 25,
+                "title": "Phiêu Lưu",
+                "description": "Nội dung của phim phiêu lưu chủ yếu bao gồm bối cảnh từ những cuộc truy lùng các vùng đất đã mất, rừng rậm, núi và\/hoặc hoang mạc, các nhân vật sẽ lao vào những cuộc truy tìm kho báu và những chuyến đi quả cảm không thể đoán trước được kết quả. Vua, các trận đánh, cuộc nổi loạn hay cướp biển là những nhân vật thường xuất hiện trong phim phiêu lưu.",
+                "status": 1,
+                "slug": "phieu-luu",
+                "pivot": {
+                    "movie_id": 138,
+                    "genre_id": 25
+                }
+            },
+            {
+                "id": 26,
+                "title": "Hài Hước",
+                "description": "Phim hài hước là thể loại phim nhấn mạnh vào tính hài hước, là một trong những dòng phim lâu đời nhất và cũng chính là một trong số những bộ phim câm đầu tiên trên thế giới.  Những bộ phim hài thường là những câu chuyện có mục đích để giải trí. Tuy nhiên, cũng có một số phim đề cập tới những vấn đề chính trị, xã hội.",
+                "status": 1,
+                "slug": "hai-huoc",
+                "pivot": {
+                    "movie_id": 138,
+                    "genre_id": 26
+                }
+            },
+            {
+                "id": 32,
+                "title": "Hành Động",
+                "description": "Các nhân vật trong phim hành động thường là những anh hùng hoặc nhân vật có khả năng chiến đấu, đòi hỏi họ phải đối mặt với những thử thách nguy hiểm để bảo vệ mục tiêu hoặc giải quyết vấn đề. Những pha hành động trong phim thường được đạo diễn và thực hiện một cách chuyên nghiệp, sử dụng các kỹ xảo, đạo cụ và đôi khi cả diễn viên đặc biệt để tạo ra những cảnh quay ấn tượng và hấp dẫn.",
+                "status": 1,
+                "slug": "hanh-dong",
+                "pivot": {
+                    "movie_id": 138,
+                    "genre_id": 32
+                }
+            },
+            {
+                "id": 38,
+                "title": "Trinh Thám",
+                "description": "Phim trinh thám thường tập trung vào quá trình điều tra để tìm ra sự thật mà không nhất thiết là vụ án. Nhân vật chính có thể là thám tử tư, cũng có thể là nhân viên tư pháp hoặc người bình thường muốn tìm ra sự thật hay tự nhận trách nhiệm điều tra.",
+                "status": 1,
+                "slug": "trinh-tham",
+                "pivot": {
+                    "movie_id": 138,
+                    "genre_id": 38
+                }
+            }
+        ],
+        "country": {
+            "id": 12,
+            "title": "Hàn Quốc",
+            "description": "Phim Hàn Quốc thường đào tạo và ra mắt nhiều diễn viên trẻ tài năng, tạo sự đa dạng và cạnh tranh trong ngành điện ảnh, nổi tiếng với các kịch bản tình cảm sâu sắc và diễn đạt cảm xúc tinh tế, tạo nên những câu chuyện đầy cảm động và lôi cuốn. Nhạc Hàn Quốc (K-pop) thường gắn liền với các bộ phim và đã trở thành một yếu tố quan trọng góp phần nâng cao sự hấp dẫn của phim Hàn Quốc. Những phim Hàn Quốc đã đạt giải thưởng quốc tế: Ký Sinh Trùng, Cậu Bé Của Gã Sát Thủ, Đốt Cháy, Người Hầu Gái, Tàu Điện Ngầm Tử Thần,...",
+            "status": 1,
+            "slug": "han-quoc"
+        }
+    }
+]

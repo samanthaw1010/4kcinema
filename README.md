@@ -1,7 +1,13 @@
 <p align="center">>> Click The Logo Below To View Live Demo <<</p>
 <p align="center">
-<a href="https://4kphim.000webhostapp.com"><img src="https://4kphim.000webhostapp.com/imgs/img-logo/logo.png" alt="4kphim Link Demo"></a>
+<a href="https://4kphim.000webhostapp.com"><img height="70" width="200" src="https://4kphim.000webhostapp.com/imgs/img-logo/logo.png" alt="4kphim Link Demo"></a>
 </p>
+<p align="center">
+>> <a href="https://4kphim.000webhostapp.com/dashboard">Click Here To Access Dashboard</a> <<</br>
+<span>Username: robert@yahoo.com</span></br>
+<span>Password: R1234567</span>
+</p>
+
 
 ## About My Project
 
